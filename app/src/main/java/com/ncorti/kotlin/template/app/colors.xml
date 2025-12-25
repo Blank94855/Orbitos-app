@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="accent_primary">#58a6ff</color>
+    <color name="accent_secondary">#8b949e</color>
+
+    <color name="theme_default_bg">#0d1117</color>
+    <color name="theme_default_text">#c9d1d9</color>
+
+    <color name="theme_solar_bg">#fdf6e3</color>
+    <color name="theme_solar_text">#586e75</color>
+
+    <color name="theme_nebula_bg">#241b2f</color>
+    <color name="theme_nebula_text">#e0dce5</color>
+    
+    <color name="theme_matrix_bg">#000000</color>
+    <color name="theme_matrix_text">#00ff00</color>
+    
+    <color name="theme_cyberpunk_bg">#0a041a</color>
+    <color name="theme_cyberpunk_text">#ebe0ff</color>
+</resources>
+
